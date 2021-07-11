@@ -1,3 +1,4 @@
+[Copy of INVENTORY MANAGEMENT SYSTEM.pdf](https://github.com/aparnasj-sj/Inventory-Management/files/6796205/Copy.of.INVENTORY.MANAGEMENT.SYSTEM.pdf)
 # Inventory-Management
 Inventory management that store details of stock like product type ,price , quantity in stock ,supplier information 
 TABLES CREATED
